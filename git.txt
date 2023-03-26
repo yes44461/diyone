@@ -1,4 +1,0 @@
-git
-	--version   git version 2.7.2.windows.1
-	-C path     eg. git -C /home/www/project status 相当于 cd /home/www/project && git status
-	--exec-path  没什么卵用
